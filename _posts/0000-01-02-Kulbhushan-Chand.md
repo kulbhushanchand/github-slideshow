@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+**Just another tiny momentary speck in an indifferent universe**
 Use the left arrow to go back!
